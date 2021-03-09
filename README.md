@@ -10,7 +10,7 @@ Feramenta feita pra bani ip dosoutro. use com fims educasionais por favo!!!!!!!
 
 >cd ban_ip
 
->pkg update -y; pkg upgrade -y; pkg install python3 python3-pip
+>pkg update -y; pkg upgrade -y; pkg install -y python
 
 >pip3 install -r requirements.txt
 
