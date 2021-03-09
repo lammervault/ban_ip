@@ -2,6 +2,8 @@
 
 Feramenta feita pra bani ip dosoutro. use com fims educasionais por favo!!!!!!!
 
+** SÓ FUNCIONA PRA TERMUX ** 
+
 # Comandos para INSTALAR a ferramenta
 
 >git clone https://github.com/lammervault/ban_ip
