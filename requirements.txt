@@ -1,6 +1,2 @@
 requests
 pytube
-numpy
-pandas
-matplotlib
-plotly

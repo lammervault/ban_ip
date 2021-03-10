@@ -46,10 +46,10 @@ import socket
 
 
 
-import numpy, pandas
-import webbrowser
-import matplotlib
-import speech_recognition
+#import numpy, pandas
+#import webbrowser
+#import matplotlib
+#import speech_recognition
 
 
 
@@ -63,7 +63,7 @@ import speech_recognition
 
 
 
-import plotly		
+#import plotly		
 
 
 
